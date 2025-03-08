@@ -15,8 +15,8 @@ DevHub is a **MERN-based** platform for developers to **collaborate, share repos
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/devhub.git
-cd devhub
+git clone https://github.com/Mustaqeem-Ali/DevHub.git
+cd DevHub
 ```
 
 ### 2️⃣ Install Dependencies
@@ -73,10 +73,9 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 If you have any questions, feel free to reach out:
-- 💬 **Email:** your.email@example.com
-- 🐙 **GitHub:** [your-username](https://github.com/your-username)
-- 🖥️ **Discord:** [Join the DevHub Community](#)
-- 💼 **LinkedIn:** [Connect with Us](#)
+- 💬 **Email:** mustaqeem.ali.6764.com
+- 🐙 **GitHub:** [your-username](https://github.com/Mustaqeem-Ali)
+
 
 Let's build together! 🚀
 

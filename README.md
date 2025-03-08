@@ -66,11 +66,6 @@ node server.js
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
 ## 📬 Contact
 If you have any questions, feel free to reach out:
 - 💬 **Email:** mustaqeem.ali.6764.com
